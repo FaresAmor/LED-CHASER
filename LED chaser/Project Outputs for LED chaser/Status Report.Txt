@@ -1,0 +1,17 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [LED chaser.PrjPcb]
+   Generated File[led_Copper_Signal_Top.gbr]
+   Generated File[led_Copper_Signal_Bot.gbr]
+   Generated File[led_Legend_Top.gbr]
+   Generated File[led_Top_3D_Body.gbr]
+   Generated File[led_Profile.gbr]
+   Generated File[led.RUL]
+   Generated File[led.EXTREP]
+   Generated File[led.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 00:56:32 On 16/02/2025
