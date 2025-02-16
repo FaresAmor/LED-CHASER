@@ -37,10 +37,14 @@ Ce projet présente la conception d'un **circuit LED Chaser** sur **PCB deux cou
 Vous êtes libre de modifier et d'améliorer ce projet ! 🚀  
 
 ## Preview  
+### 📜 Schematic Diagram  
+ ![Schematic Diagram](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/schematic.png)  
+### 🖥️ PCB Layout  
+ ![PCB Layout](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/PCB.png)  
+### 🏗️ 3D Board View  
+ ![3D Board View](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/board.png) 
 
-🔗 **[Schematic Diagram](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/schematic.png)**  
-🔗 **[PCB Layout](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/PCB.png)**  
-🔗 **[3D Board View](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/board.png)**  
-🔗 **[3D Board Animation](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/board.gif)**  
+### 🎞️ 3D Board Animation  
+ ![3D Board Animation](https://github.com/FaresAmor/LED-CHASER/blob/main/LED%20chaser/img/board.gif) 
 
 
